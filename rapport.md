@@ -1,6 +1,7 @@
 <center>RPGManager</center>
 ==========
 <center>_Character sheet manager for role-playing games._</center>
+<center>Julien ABADJI _aulien.jbadji@gmail.com_ and Vincent MONOT _vincent.monot@yahoo.fr_</center>
 
 ## Description
 
